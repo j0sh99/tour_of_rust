@@ -71,7 +71,7 @@
     annak típusát (pl.: `13u32`, `2u8`).
 
     [1]: A *tuple* magyar megfelelője az ú.n. "rendezett *n*-es", ám mivel ez borzasztó hülyén néz
-    ki programozós kontextusban és a tuple annyira elterjedt kfiejezés, hogy a kedves olvasó
+    ki programozós kontextusban és a tuple annyira elterjedt kifejezés, hogy a kedves olvasó
     valószínűleg eddig is ismerte már, így ebben a könyvben fordítatlanul fogom hagyni. -- *A
     fordító*
 - title: Egyszerű típusok közötti átalakítás
